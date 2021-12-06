@@ -19,4 +19,5 @@
   - [Fairness](https://aif360.mybluemix.net/)
   - [Explainability](https://aix360.mybluemix.net/)
 - [AI @ Google](https://ai.google/tools/)
+  - [Quantum AI](https://quantumai.google/)
 - [AI @ Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1:primaryr6)

@@ -21,3 +21,5 @@
 - [AI @ Google](https://ai.google/tools/)
   - [Quantum AI](https://quantumai.google/)
 - [AI @ Microsoft](https://www.microsoft.com/en-us/ai?activetab=pivot1:primaryr6)
+- [AI @ Facebook](https://ai.facebook.com/)
+- [AI @ Tesla](https://www.tesla.com/AI)
